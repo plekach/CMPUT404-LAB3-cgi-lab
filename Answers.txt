@@ -1,0 +1,25 @@
+Question1:
+(os.environ)
+
+Question2:
+QUERY_STRING
+
+Question3:
+HTTP_USER_AGENT
+
+Question4: 
+s = cgi.FieldStorage()
+username = s.getfirst("username")
+password = s.getfirst("password")
+
+Question5:
+Set-Cookie: username={username}
+
+Question6:
+HTTP_COOKIE
+
+Question7:
+Used to store user data
+
+Question8:
+
